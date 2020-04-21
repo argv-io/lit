@@ -10,3 +10,7 @@ Literature.
 ### Existing services on fact validation
 
 - https://www.snopes.com/fact-check/
+
+### Conflict resolution
+
+- https://www.urop.uci.edu/i-surf/recommended_readings/2019_chatbot_for_conflict_detection_and_resolution.pdf
